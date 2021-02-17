@@ -73,3 +73,7 @@ ul {
 .cards {
     max-width: 18rem;
 }
+
+/* Comentarios: muy buena organizacion y uso de las clases. Se entiende el proposito de cada regla y sus aportes esteticos a la pagina.
+Tal vez para la de footer se pudo haber usado selector de los de padre hijo para que se entienda mejor, igual funciona bien. 
+Pero de resto muy bien */
